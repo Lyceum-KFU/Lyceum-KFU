@@ -1,10 +1,10 @@
-<p align="center"><a href="https://124476.github.io"><img width="80%" alt="Hello, I'm 124476." src="./img/hello.png" /></a></p>
+<p align="center"><a href="https://Lyceum-KFU.github.io"><img width="80%" alt="Hello, I'm Lyceum-KFU." src="./img/hello.png" /></a></p>
 
 <br/>
 
-I'm a backend and software developer
+We're a backend and software developers
 
-**About me**
+**About us**
 
 - A students from Russia
 
@@ -15,6 +15,8 @@ I'm a backend and software developer
 - Development in Python Django, Flask, pygame
 
 - SQL SQLite
+
+- C# Visual Studio WPF
 
 #### Projects
 
